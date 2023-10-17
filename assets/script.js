@@ -12,3 +12,5 @@ if (topic === "HTML") {
  } else {
     console.log("Plaese try again!");
  }
+var shapes = ["triangle", "square", "pentagon", "circle"];
+console.log(shapes[0]);
