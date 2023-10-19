@@ -28,3 +28,4 @@ function selectTopic() {
 }
 listTopics();
 selectTopic();
+console.log("Finished");
