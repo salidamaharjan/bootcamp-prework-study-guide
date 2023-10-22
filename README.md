@@ -2,7 +2,7 @@
 
 ## Description
 
-This study guide is help the new student to go through the Prework for Coding. It introduces HTMl, CSS, Git and JavaScript, help understand the basics for coding, and work with them to build a project.
+This study guide helps the new student to go through the Prework for Coding. It introduces HTMl, CSS, Git and JavaScript, help understand the basics for coding, and work with them to build a project.
 
 ## Installation
 
